@@ -1,0 +1,61 @@
+THE WATER CYCLE
+
+The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Water changes state between liquid, vapor, and ice at various points throughout the cycle. Although the balance of water on Earth remains fairly constant over time, individual water molecules can come and go.
+
+Evaporation is the process by which water changes from a liquid to a gas or vapor. Solar energy drives evaporation of water from oceans, lakes, and rivers. Roughly ninety percent of the water in the atmosphere is produced by evaporation, while the remaining ten percent comes from plant transpiration. As water vapor rises into the atmosphere, it cools and condenses into tiny droplets that form clouds.
+
+Precipitation occurs when so much water has condensed that the air cannot hold it any longer. The clouds get heavy and water falls back to the Earth in the form of rain, snow, sleet, or hail. Once the water reaches the ground, it may flow across the surface as runoff, seep into the soil to become groundwater, or collect in bodies of water where the cycle begins anew. Groundwater can remain stored in aquifers for thousands of years before returning to the surface.
+
+
+HONEYBEES AND POLLINATION
+
+Honeybees are among the most important pollinators in agricultural ecosystems. As a bee moves from flower to flower collecting nectar, grains of pollen stick to the fine hairs covering its body. When the bee visits the next flower, some of that pollen rubs off, fertilizing the plant and allowing it to produce fruit and seeds. This service is essential to a large fraction of the crops humans depend on.
+
+A honeybee colony is a highly organized society consisting of a single queen, thousands of female worker bees, and a smaller number of male drones. The queen's primary role is to lay eggs, sometimes as many as two thousand in a single day. Worker bees perform nearly every other task, including foraging for food, building the wax comb, feeding the larvae, and defending the hive against intruders.
+
+Bees communicate the location of food sources through a remarkable behavior called the waggle dance. A forager that has discovered a rich patch of flowers returns to the hive and performs a figure-eight movement on the vertical surface of the comb. The angle of the dance relative to vertical indicates the direction of the food relative to the sun, and the duration of the waggle portion signals the distance. In recent decades, honeybee populations have faced serious threats from colony collapse disorder, pesticides, and habitat loss.
+
+
+THE HISTORY OF JAZZ
+
+Jazz is a music genre that originated in the African American communities of New Orleans in the late nineteenth and early twentieth centuries. Its roots lie in blues and ragtime, and it emerged as a blend of European harmonic structure and African rhythmic traditions. Jazz is often characterized by swing rhythms, blue notes, call and response patterns, and above all, improvisation.
+
+During the 1920s, sometimes called the Jazz Age, the music spread from New Orleans up the Mississippi River to Chicago and New York. Louis Armstrong, a trumpeter and singer from New Orleans, transformed jazz from a collective ensemble music into an art form that showcased the individual soloist. His virtuosic playing and charismatic personality made him one of the most influential figures in the history of American music.
+
+The 1940s saw the rise of bebop, a complex and fast-paced style developed by musicians such as Charlie Parker and Dizzy Gillespie. Bebop moved jazz away from danceable popular music toward a more challenging art form meant for attentive listening. Later decades brought cool jazz, modal jazz, and free jazz, each pushing the boundaries of harmony and form. Miles Davis, a trumpeter whose career spanned several of these movements, repeatedly reinvented his sound and remained at the cutting edge for decades.
+
+
+VOLCANOES AND PLATE TECTONICS
+
+A volcano is a rupture in the crust of a planet that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface. On Earth, volcanoes are most often found where tectonic plates diverge or converge. The theory of plate tectonics explains that the Earth's outer shell is divided into several large plates that glide slowly over the mantle beneath them.
+
+Where two plates pull apart, such as along mid-ocean ridges, magma rises to fill the gap and creates new crust. Where an oceanic plate collides with a continental plate, the denser oceanic plate is forced downward in a process called subduction. As the descending plate melts, it feeds magma to volcanoes on the surface above. The Pacific Ring of Fire, a horseshoe-shaped zone around the Pacific Ocean, is home to the majority of the world's active volcanoes precisely because of this subduction activity.
+
+Volcanic eruptions vary enormously in their character. Some volcanoes produce gentle flows of runny basaltic lava, while others erupt explosively, hurling ash and rock high into the atmosphere. The explosive eruptions are driven by dissolved gases trapped in thick, sticky magma. A single large eruption can affect the global climate for years by injecting sulfur aerosols into the stratosphere, which reflect sunlight and cool the planet's surface.
+
+
+SUPPLY AND DEMAND
+
+Supply and demand is one of the most fundamental concepts in economics and forms the backbone of a market economy. Demand refers to the quantity of a good or service that consumers are willing and able to purchase at various prices. Generally, as the price of a good rises, the quantity demanded falls, a relationship known as the law of demand.
+
+Supply refers to the quantity of a good that producers are willing to offer for sale at various prices. In contrast to demand, the quantity supplied usually rises as the price increases, because higher prices make production more profitable. The point at which the quantity that consumers wish to buy equals the quantity that producers wish to sell is called the market equilibrium, and the corresponding price is the equilibrium price.
+
+When markets are out of equilibrium, forces push them back toward it. If the price is set too high, a surplus develops because supply exceeds demand, and sellers must lower prices to clear their inventory. If the price is too low, a shortage develops as demand outstrips supply, and competition among buyers drives the price upward. Shifts in factors such as consumer income, tastes, production costs, and technology can move the entire supply or demand curve, establishing a new equilibrium.
+
+
+THE PRINTING PRESS
+
+The printing press is a device that applies pressure to an inked surface resting on a medium such as paper, transferring the ink to create text or images. Around the year 1440, a German goldsmith named Johannes Gutenberg introduced a printing system based on movable metal type, an innovation that would transform the world. Before this, books in Europe were copied laboriously by hand, making them rare and expensive.
+
+Gutenberg's key contributions were a durable metal alloy for casting individual letters, an oil-based ink suitable for metal type, and an adaptation of the screw press already used for pressing grapes and olives. By arranging and rearranging reusable letters, a printer could produce many copies of a page quickly and then reset the type for the next page. His famous Bible, printed in the 1450s, demonstrated the quality and efficiency of the new method.
+
+The consequences of the printing press were profound and far-reaching. Books became dramatically cheaper and more plentiful, literacy spread, and ideas circulated faster than ever before. The press played a crucial role in the Protestant Reformation, the Scientific Revolution, and the Renaissance by allowing new thinking to reach a wide audience. Historians often regard the invention as one of the most important turning points in human history.
+
+
+NEURAL NETWORKS
+
+An artificial neural network is a computing system loosely inspired by the biological neural networks that constitute animal brains. It consists of interconnected units called artificial neurons, which are organized into layers. Each connection can transmit a signal from one neuron to another, and the receiving neuron processes the signal and passes its output onward through the network.
+
+A typical network has an input layer that receives raw data, one or more hidden layers that transform the data, and an output layer that produces the final result. Each connection carries a weight that determines its influence, and each neuron applies a nonlinear activation function to its inputs. By adjusting the weights, the network can learn to approximate complex relationships between inputs and outputs.
+
+Learning happens through a process called training, in which the network is shown many examples and gradually adjusts its weights to reduce the difference between its predictions and the correct answers. The most common training algorithm, backpropagation, computes how much each weight contributed to the error and nudges it in the direction that reduces that error. Deep neural networks with many hidden layers have achieved remarkable results in image recognition, natural language processing, and game playing, powering much of the recent progress in artificial intelligence.
