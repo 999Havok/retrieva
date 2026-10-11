@@ -53,6 +53,7 @@ numpy==2.5.3
 orjson==3.13.0
 packaging==26.3
 propcache==0.5.4
+pyarrow==25.0.1
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pycparser==3.0
