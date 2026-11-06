@@ -43,3 +43,7 @@ python raptor.py
 - **BIC-based and degenerate stopping**: tree-building stops when BIC picks K equals 1 (level is one coherent topic) or when K equals N (no actual grouping happening). Prevents wasteful one-to-one "summary" levels.
 - **Collapsed-tree retrieval**: all nodes across all levels compete in one FAISS index, so a single query can pull both a leaf chunk and a high-level summary if both are relevant.
 - **Ollama for summarization, Gemini for final answer**: tree-building makes many summarization calls per document, which would exhaust Gemini's free-tier rate limit. A local model (`llama3.2:3b` via Ollama) removes that constraint. Gemini is reserved for the single answer-generation call per user query, where its stronger reasoning matters more.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
