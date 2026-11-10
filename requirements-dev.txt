@@ -1,0 +1,10 @@
+# Minimal set for the offline unit tests (no torch, FAISS, Ollama, or Gemini).
+# Versions match requirements.txt.
+langchain-core==1.6.7
+numpy==2.5.3
+python-dotenv==1.2.4
+requests==2.34.2
+scikit-learn==1.9.1
+tokenizers==0.23.2
+umap-learn==0.5.12
+pytest
