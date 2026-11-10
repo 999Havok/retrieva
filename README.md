@@ -35,6 +35,17 @@ RAPTOR (start `ollama serve` in a separate terminal first):
 python raptor.py
 ```
 
+## Tests
+
+The unit tests cover clustering (soft assignment, BIC selection), context-window packing, the bad-summary filter, and checkpoint/resume. They use fixed numpy arrays and fake embedding/summarizer stand-ins, so they need no GPU, Ollama, Gemini, or network access and run in about 15 seconds:
+
+```
+pip install -r requirements-dev.txt
+python -m pytest -q tests
+```
+
+The full `requirements.txt` works too; `tests/conftest.py` only stubs the embedding, FAISS, and Gemini packages when they aren't installed.
+
 ## Design decisions
 
 - **Soft GMM cluster assignment (threshold 0.1)**: a chunk can belong to multiple clusters. Semantically overlapping chunks inform multiple parent summaries, matching the RAPTOR paper.
