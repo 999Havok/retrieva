@@ -18,7 +18,7 @@ Retrieval-Augmented Generation (RAG) grounds LLM answers in your own documents b
 2. Create a virtual environment: `python3 -m venv venv && source venv/bin/activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Install Ollama from ollama.com, then `ollama pull llama3.2:3b`
-5. Create a `.env` file with `GOOGLE_API_KEY=your_key_here` (from aistudio.google.com/apikey)
+5. Copy `.env.example` to `.env` and set `GOOGLE_API_KEY` (from aistudio.google.com/apikey)
 
 ## Usage
 
